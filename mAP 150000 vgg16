@@ -1,0 +1,44 @@
+AP for aeroplane = 0.7411
+AP for bicycle = 0.7946
+AP for bird = 0.7462
+AP for boat = 0.6698
+AP for bottle = 0.6087
+AP for bus = 0.8369
+AP for car = 0.8671
+AP for cat = 0.8781
+AP for chair = 0.5873
+AP for cow = 0.8036
+AP for diningtable = 0.6859
+AP for dog = 0.8556
+AP for horse = 0.8379
+AP for motorbike = 0.7803
+AP for person = 0.7842
+AP for pottedplant = 0.4652
+AP for sheep = 0.8043
+AP for sofa = 0.7334
+AP for train = 0.8029
+AP for tvmonitor = 0.7471
+Mean AP = 0.7515
+~~~~~~~~
+Results:
+0.741
+0.795
+0.746
+0.670
+0.609
+0.837
+0.867
+0.878
+0.587
+0.804
+0.686
+0.856
+0.838
+0.780
+0.784
+0.465
+0.804
+0.733
+0.803
+0.747
+0.752
