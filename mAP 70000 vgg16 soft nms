@@ -1,0 +1,65 @@
+Writing aeroplane VOC results file
+Writing bicycle VOC results file
+Writing bird VOC results file
+Writing boat VOC results file
+Writing bottle VOC results file
+Writing bus VOC results file
+Writing car VOC results file
+Writing cat VOC results file
+Writing chair VOC results file
+Writing cow VOC results file
+Writing diningtable VOC results file
+Writing dog VOC results file
+Writing horse VOC results file
+Writing motorbike VOC results file
+Writing person VOC results file
+Writing pottedplant VOC results file
+Writing sheep VOC results file
+Writing sofa VOC results file
+Writing train VOC results file
+Writing tvmonitor VOC results file
+VOC07 metric? Yes
+AP for aeroplane = 0.5842
+AP for bicycle = 0.6395
+AP for bird = 0.5492
+AP for boat = 0.4548
+AP for bottle = 0.4496
+AP for bus = 0.6200
+AP for car = 0.6889
+AP for cat = 0.7324
+AP for chair = 0.4355
+AP for cow = 0.5815
+AP for diningtable = 0.5707
+AP for dog = 0.6435
+AP for horse = 0.6650
+AP for motorbike = 0.5809
+AP for person = 0.7010
+AP for pottedplant = 0.3822
+AP for sheep = 0.5485
+AP for sofa = 0.5384
+AP for train = 0.6457
+AP for tvmonitor = 0.5764
+Mean AP = 0.5794
+~~~~~~~~
+Results:
+0.584
+0.640
+0.549
+0.455
+0.450
+0.620
+0.689
+0.732
+0.435
+0.581
+0.571
+0.644
+0.665
+0.581
+0.701
+0.382
+0.549
+0.538
+0.646
+0.576
+0.579
