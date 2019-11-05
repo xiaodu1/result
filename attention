@@ -1,7 +1,0 @@
-1、改为soft nms时
-改pascal_voc.py 249line 增加一纬
-2、每次运行test_net时
-Just delete it
-rm data/VOCdevkit2007/annotations_cache/annots.pkl and run the program again.
-You should also delete the roidb cache:
-rm data/cache/voc_2007_trainval_gt_roidb.pkl
